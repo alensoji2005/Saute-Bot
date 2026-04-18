@@ -118,7 +118,6 @@ const IngredientIcon = ({ ingredient }) => {
 
 // --- Firebase Initialization ---
 const firebaseConfig = {
-  apiKey: "AIzaSyBgZb6BMW07Ws7_WQ1ZDzHeYDH1iMdbJSs",
   authDomain: "ai-chef-41737.firebaseapp.com",
   projectId: "ai-chef-41737",
   storageBucket: "ai-chef-41737.firebasestorage.app",
